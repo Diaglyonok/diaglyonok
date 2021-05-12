@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My CodesRank
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=diaglyonok" alt="My CodesRank"/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=diaglyonok&height=200&width=400&skills=Dart,Java,Kotlin,Python,C%2B%2B,C%23&show-other-skills=true&bg=8d8d8d"/>
 <!--
 **Diaglyonok/diaglyonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
