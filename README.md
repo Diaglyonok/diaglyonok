@@ -3,7 +3,7 @@
 
 
 - 📫 Here is how to reach me: [Telegram](https://t.me/diaglyonok), [LinkedIn](https://www.linkedin.com/in/olegdidenko/)
-- 📲 Here is flutter projects in production: [EyeHelper](https://eye-helper.flycricket.io/), [Заполнение документов](https://zapolnenie-dokumento-0.flycricket.io/).
+- 📲 Here is flutter projects in production: [EyeHelper](https://eye-helper.flycricket.io/), [Заполнение документов](https://zapolnenie-dokumento-0.flycricket.io/), [Rental Planner](http://rental.planner.tilda.ws).
 > There is also several projects with me participating. Can provide you info by request.
 
 #### My [CodeRank](https://profile.codersrank.io/user/diaglyonok/).
