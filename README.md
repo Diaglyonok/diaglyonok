@@ -6,23 +6,13 @@
 - 📲 Here is flutter projects in production: [Rental Planner](https://www.rentalplanner.io/), [Заполнение документов](https://zapolnenie-dokumento-0.flycricket.io/), [EyeHelper](https://eye-helper.flycricket.io/).
 > There is also several projects with me participating. Can provide you info by request.
 
-#### My [CodeRank](https://profile.codersrank.io/user/diaglyonok/).
+#### My Pub.dev packages:
+- [clean_cubit_reactor](https://pub.dev/packages/clean_cubit_reactor)
+- [fluid_background](https://pub.dev/packages/fluid_background)
+- [restart_widget](https://pub.dev/packages/restart_widget)
+- [smart_rate_us](https://pub.dev/packages/smart_rate_us)
 
 #### My Real activity board for May 2021:
 ![image](https://user-images.githubusercontent.com/18545029/118035689-38798b80-b374-11eb-8fc0-c523ea9b4447.png)
 
-- 👯 I’m looking to collaborate on flutter projects and startups or people to build [Rental Planner] with. Contact me for information!
-<!--
-**Diaglyonok/diaglyonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👯 I’m looking to collaborate on flutter projects and startups OR people to build [Rental Planner](https://www.rentalplanner.io/) with. Contact me for information!
